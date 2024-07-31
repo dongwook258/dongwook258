@@ -17,5 +17,3 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flatsquare&logo=TypeScript&logoColor=white)
 ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flatsquare&logo=Serverless&logoColor=magenta)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
-
-https://ssminji.notion.site/GitHub-Profile-031c0a9efbef42e6ba94ddb8cd3dfaf0
