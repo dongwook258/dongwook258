@@ -1,4 +1,4 @@
-![Waving](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi,%20I'm%20DongWook&reversal=false&fontAlign=50&animation=fadeIn)
+![Waving](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi,%20I'm%20DongWook&reversal=false&fontAlign=50&animation=fadeIn&fontColor=black)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongwook258&layout=compact)](https://github.com/dongwook258/githubreadme-stats)
 
